@@ -1,1 +1,0 @@
-# ami-sakakibara.github.io
