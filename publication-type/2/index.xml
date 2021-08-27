@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Ami Sakakibara</title>
+    <link>https://ami-sakakibara.github.io/publication-type/2/</link>
+      <atom:link href="https://ami-sakakibara.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Ami Sakakibara</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ami-sakakibara.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://ami-sakakibara.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>On-line permissive supervisory control of discrete event systems for scLTL specifications</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2020-lcss/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2020-lcss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning of Control Policy for Linear Temporal Logic Specifications Using Limit-Deterministic Generalized Büchi Automata</title>
+      <link>https://ami-sakakibara.github.io/publication/oura-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/oura-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Control of Concurrent Discrete Event Systems with Linear Temporal Logic Specifications</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2018-ieice/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2018-ieice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

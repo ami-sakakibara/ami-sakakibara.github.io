@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Ami Sakakibara</title>
     <link>https://ami-sakakibara.github.io/</link>
       <atom:link href="https://ami-sakakibara.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Ami Sakakibara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Ami Sakakibara</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ami-sakakibara.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Ami Sakakibara</title>
       <link>https://ami-sakakibara.github.io/</link>
     </image>
     
@@ -107,6 +107,46 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>On-line permissive supervisory control of discrete event systems for scLTL specifications</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2020-lcss/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2020-lcss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Line Synthesis of Permissive Supervisors for Partially Observed Discrete Event Systems under scLTL Constraints</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2020-ifac/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2020-ifac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning of Control Policy for Linear Temporal Logic Specifications Using Limit-Deterministic Generalized Büchi Automata</title>
+      <link>https://ami-sakakibara.github.io/publication/oura-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/oura-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Line Supervisory Control for Surveillance under Partial Observation with scLTL Specifications</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2020-iccps/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2020-iccps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiP Abstract: Detection of False Injection Attacks Based on LTL for Fallback Control</title>
+      <link>https://ami-sakakibara.github.io/publication/kuze-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/kuze-2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -239,6 +279,46 @@ Three
     </item>
     
     <item>
+      <title>Directed Control of Discrete Event Systems with LTL[$mathcalF$] Specifications</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2018-cdc/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2018-cdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Supervision and Coordination of Concurrent Discrete Event Systems under LTL Constraints</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2018-wodes/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2018-wodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Control of Concurrent Discrete Event Systems with Linear Temporal Logic Specifications</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2018-ieice/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2018-ieice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal design of controller: temporal logic speci cation and game theoretic approach</title>
+      <link>https://ami-sakakibara.github.io/publication/ushio-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/ushio-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervisory Control of Concurrent Discrete Event Systems with Local Linear Temporal Logic Specifications</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://ami-sakakibara.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -252,22 +332,11 @@ Three
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://ami-sakakibara.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ami-sakakibara.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Optimal Directed Control of Discrete Event Systems with Linear Temporal Logic Constraints</title>
+      <link>https://ami-sakakibara.github.io/publication/sakakibara-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/publication/sakakibara-2015/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -275,6 +344,14 @@ Three
       <link>https://ami-sakakibara.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ami-sakakibara.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>https://ami-sakakibara.github.io/experiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ami-sakakibara.github.io/experiences/</guid>
       <description></description>
     </item>
     
